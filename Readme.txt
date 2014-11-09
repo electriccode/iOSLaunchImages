@@ -15,3 +15,5 @@ Open Photoshop. Go to “File > Scripts > Browse” and point it to the jsx file
 All launch images are saved in the same directory.
 jsx is nothing but a simple javascript file so you can read it and edit the compression settings of PNG, saved file names etc.
 Enjoy :)
+
+Copyright (c) 2014, Pankaj Phartiyal under Free BSD
